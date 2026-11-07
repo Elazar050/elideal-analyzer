@@ -1,0 +1,4 @@
+examples/*/*.html
+!examples/spot-plate/*.html
+!examples/test-rig/*.html
+examples/**/*.pdf
